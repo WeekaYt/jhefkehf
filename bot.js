@@ -11,7 +11,8 @@ client.on('message', message => {
   if (!message.content.startsWith(prefix)) return;
   var args = message.content.split(' ').slice(1);
   var argresult = args.join(' ');
-  if (message.author.id !== "ID حقك") return;
+  if (message.author.id !== ""NDA5MzgxMTYzOTgzOTYyMTEy.XP-u9g.92hTZEZiR9mNnz7LvdIeqjzSdWc"
+") return;
 
   
   if (message.content.startsWith(prefix + 'setwatch')) {
